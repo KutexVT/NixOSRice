@@ -27,3 +27,6 @@ Si no sabés lo que estás haciendo, no lo instales. Si sabés, tampoco. Mejor m
 ---
 
 **Disclaimer:** No me hago responsable si terminas usando XFCE por accidente después de esto.
+
+
+(Si el texto fue hecho por IA, perdon por eso pero es que me da pereza)
