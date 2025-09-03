@@ -14,7 +14,7 @@ Holiiiiii, como estan estrellitas? Les dejo un pequeño regalito de parte mia
 
 No me hago responsable de ningun error y toda la culpa es tuya
 
-Pero si quieres ayuda estoy disponible en mi servidor de discord (https://discord.com/invite/zAHqCq3ZGF))
+Pero si quieres ayuda estoy disponible en mi servidor de discord (https://discord.com/invite/zAHqCq3ZGF)
 
 ## Instalación
 
