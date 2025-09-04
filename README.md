@@ -3,8 +3,8 @@
 Holiiiiii, como estan estrellitas? Les dejo un pequeño regalito de parte mia
 
 ## Algo asi deveria quedarte
-[![Mira el video](https://img.youtube.com/vi/YPfYc0M0l_s/maxresdefault.jpg)](https://youtu.be/YPfYc0M0l_s)
-
+[![Ejemplo 1](https://img.youtube.com/vi/YPfYc0M0l_s/maxresdefault.jpg)](https://youtu.be/YPfYc0M0l_s)
+[![Ejemplo 2](https://img.youtube.com/vi/thPjkZg1bk4?si=cPhjfKRbR1JiJuok/maxresdefault.jpg)](https://youtu.be/thPjkZg1bk4?si=cPhjfKRbR1JiJuok)
 
 ## ¿Qué hay acá?
 
