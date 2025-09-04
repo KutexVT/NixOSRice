@@ -43,15 +43,18 @@ No me hago responsable de:
 
 Todo bajo tu propio riesgo, **mi estrellita**.
 
-**¿Necesitas ayuda?**
+## **¿Necesitas ayuda?**
 Pásate por el Discord: [Kutex Corp.](https://discord.com/invite/zAHqCq3ZGF)
 
 ---
 
-## **Requisitos**
-- NixOS (obvio, no Ubuntu con Hyprland por favor).
-- Tener un poco de **paciencia**.
-- Tarjeta gráfica decente (no corras esto en un Celeron, por tu bien).
+## **Requisitos mínimos**
+
+Sistema operativo: Linux decente (NixOS, Arch, Nyarch... no Ubuntu por favor).
+RAM: 4 GB mínimo (6 GB para que no me vengas llorando).
+GPU: Cualquier cosa que soporte Wayland (si tu GPU salió con Windows XP, olvídalo).
+CPU: Al menos 2 núcleos (4 para que no llores).
+Es Linux, no pide tanto... ¿ok?
 
 ---
 
