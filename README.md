@@ -21,13 +21,13 @@ Les traigo un pequeño regalito para que su escritorio sea **mas bonito** (o al 
 
 ## **Así debería quedarte (si no explota)**
 
-[![Ejemplo 1](https://img.youtube.com/vi/YPfYc0M0l_s/maxresdefault.jpg)](https://youtu.be/YPfYc0M0l_s)
+[![Video Completo](https://img.youtube.com/vi/YPfYc0M0l_s/maxresdefault.jpg)](https://youtu.be/YPfYc0M0l_s)
 <p align="center">
   <img src="rice.mp4.gif" alt="Preview Hyprland" width="600" style="border-radius:15px;box-shadow:0 0 20px #ffdd00, 0 0 40px #00aaff;">
 </p>
 
 
-[![Ejemplo 2](https://img.youtube.com/vi/thPjkZg1bk4/maxresdefault.jpg)](https://youtu.be/thPjkZg1bk4)
+[![Video Completo 2](https://img.youtube.com/vi/thPjkZg1bk4/maxresdefault.jpg)](https://youtu.be/thPjkZg1bk4)
 <p align="center">
   <img src="rice2.gif" alt="Preview Hyprland" width="600" style="border-radius:15px;box-shadow:0 0 20px #ffdd00, 0 0 40px #00aaff;">
 </p>
