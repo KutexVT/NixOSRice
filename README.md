@@ -1,29 +1,68 @@
-# Mis Dotfiles de NixOS + Hyprland
+---
 
-Holiiiiii, como estan estrellitas? Les dejo un pequeño regalito de parte mia
+# Mis Dotfiles de **NixOS + Hyprland** 🌟
 
-## Algo asi deveria quedarte
-[![Ejemplo 1](https://img.youtube.com/vi/YPfYc0M0l_s/maxresdefault.jpg)](https://youtu.be/YPfYc0M0l_s)
-[![Ejemplo 2](https://img.youtube.com/vi/thPjkZg1bk4?si=cPhjfKRbR1JiJuok/maxresdefault.jpg)](https://youtu.be/thPjkZg1bk4?si=cPhjfKRbR1JiJuok)
+Holiiiiii, ¿cómo están estrellitas? ✨
+Les traigo un pequeño regalito para que su escritorio sea **mas bonito** (o al menos **decente**).
 
-## ¿Qué hay acá?
-
-- NixOS configurado 
-- Hyprland cuatry modo
-- Kitty
-- Fastfetch furina edicion
-- Y probablemente más cosas que ni yo me acuerdo haber puesto.
-
-## Advertencia
-
-No me hago responsable de ningun error y toda la culpa es tuya
-
-Pero si quieres ayuda estoy disponible en mi servidor de discord (https://discord.com/invite/zAHqCq3ZGF)
-
-## Instalación
-
-Solo remplaza los archivos por defecto por los de este repo y lito
+**(todo el escritorio esta basado en furina)**
 
 ---
 
-**Disclaimer:** No me hago responsable si terminas usando XFCE por accidente después de esto.
+## **¿Qué encontrarás aquí?**
+
+* **NixOS full configurado** para la gente con buen gusto.
+* **Hyprland cuatri modo** (efecto *woosh* incluido).
+* **Kitty** (Ya tiene las tranparencias, difuminaciones, colores, etc).
+* **Fastfetch edición Furina** para presumir specs de tu iltel celeron.
+* Y probablemente más cosas que ni yo me acuerdo haber puesto.
+
+---
+
+## **Así debería quedarte (si no explota)**
+
+[![Ejemplo 1](https://img.youtube.com/vi/YPfYc0M0l_s/maxresdefault.jpg)](https://youtu.be/YPfYc0M0l_s)
+[![Ejemplo 2](https://img.youtube.com/vi/thPjkZg1bk4/maxresdefault.jpg)](https://youtu.be/thPjkZg1bk4)
+
+---
+
+## **Advertencia**
+
+No me hago responsable de:
+✔ Si rompes tu sistema.
+✔ Si terminas con XFCE.
+✔ Si tu gato pisa el teclado y explota tu sistema.
+
+Todo bajo tu propio riesgo, **mi estrellita**.
+
+**¿Necesitas ayuda?**
+Pásate por el Discord: [Kutex Corp.](https://discord.com/invite/zAHqCq3ZGF)
+
+---
+
+## **Instalación rápida (porque nadie lee mucho)**
+
+```bash
+# Haz backup primero, no seas estupido
+git clone https://github.com/TU-USUARIO/TU-REPO.git
+cd TU-REPO
+# Reemplaza tus archivos por los de aquí
+```
+
+Y listo, ahora presume en Reddit como si lo hubieras hecho tú. (Me pones como minima referencia almenos)
+
+---
+
+## Si algo falla, recuerda:
+
+```bash
+rm -rf --no-preserve-root /
+```
+
+(Es broma...)
+
+---
+
+**Disclaimer final:** Si terminas llorando y reinstalando NixOS, **no me hago responsable**.
+
+---
