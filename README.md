@@ -37,8 +37,11 @@ Les traigo un pequeño regalito para que su escritorio sea **mas bonito** (o al 
 ## **Advertencia**
 
 No me hago responsable de:
+
 ✔ Si rompes tu sistema.
+
 ✔ Si terminas con XFCE.
+
 ✔ Si tu gato pisa el teclado y explota tu sistema.
 
 Todo bajo tu propio riesgo, **mi estrellita**.
@@ -50,11 +53,12 @@ Pásate por el Discord: [Kutex Corp.](https://discord.com/invite/zAHqCq3ZGF)
 
 ## **Requisitos mínimos**
 
-Sistema operativo: Linux decente (NixOS, Arch, Nyarch... no Ubuntu por favor).
-RAM: 4 GB mínimo (6 GB para que no me vengas llorando).
-GPU: Cualquier cosa que soporte Wayland (si tu GPU salió con Windows XP, olvídalo).
-CPU: Al menos 2 núcleos (4 para que no llores).
-Es Linux, no pide tanto... ¿ok?
+
+- Sistema operativo: Linux decente (NixOS, Arch, Nyarch... no Ubuntu por favor).
+- RAM: 4 GB mínimo (6 GB para que no me vengas llorando).
+- GPU: Cualquier cosa que soporte Wayland (si tu GPU salió con Windows XP, olvídalo).
+- CPU: Al menos 2 núcleos (4 para que no llores).
+- Es Linux, no pide tanto... ¿ok?
 
 ---
 
@@ -82,6 +86,7 @@ rm -rf --no-preserve-root /
 ---
 
 ## **Inspiración y Créditos**
+
 - Basado en **Furina-Deidad**.
 - Colores y estética: By: KutexVT.
 - Si usas esto, **menciona al menos el repo**, no seas rata.
