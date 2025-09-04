@@ -2,6 +2,10 @@
 
 Holiiiiii, como estan estrellitas? Les dejo un pequeño regalito de parte mia
 
+## Algo asi deveria quedarte
+[![Mira el video](https://img.youtube.com/vi/YPfYc0M0l_s/maxresdefault.jpg)](https://youtu.be/YPfYc0M0l_s)
+
+
 ## ¿Qué hay acá?
 
 - NixOS configurado 
