@@ -2,11 +2,6 @@
 
 # Mis Dotfiles de **NixOS + Hyprland**
 
-Holiiiiii, ¿cómo están estrellitas?
-Les traigo un pequeño regalito para que su escritorio sea **mas bonito** (o al menos **decente**).
-
-**(todo el escritorio esta basado en furina)**
-
 ---
 
 ## **¿Qué encontrarás aquí?**
@@ -44,7 +39,7 @@ No me hago responsable de:
 
 ✔ Si tu gato pisa el teclado y explota tu sistema.
 
-Todo bajo tu propio riesgo, **mi estrellita**.
+Todo bajo tu propio riesgo
 
 ## **¿Necesitas ayuda?**
 Pásate por el Discord: [Kutex Corp.](https://discord.com/invite/zAHqCq3ZGF)
@@ -62,10 +57,10 @@ Pásate por el Discord: [Kutex Corp.](https://discord.com/invite/zAHqCq3ZGF)
 
 ---
 
-## **Instalación rápida (porque nadie lee mucho)**
+## **Instalación rápida**
 
 ```bash
-# Haz backup primero, no seas estupido
+# Haz backup primero, no seas pendejo
 git clone https://github.com/KutexVT/NixOSRice.git
 cd TU-REPO
 # Reemplaza tus archivos por los de aquí
@@ -93,6 +88,6 @@ rm -rf --no-preserve-root /
 
 ---
 
-**Disclaimer:** Si terminas llorando y reinstalando NixOS, **no me hago responsable**.
+**Disclaimer:** Si terminas reinstalando NixOS, **no me hago responsable**.
 
 ---
